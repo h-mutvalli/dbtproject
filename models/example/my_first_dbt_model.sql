@@ -5,6 +5,7 @@
     This will override configurations stated in dbt_project.yml
 
     Try changing "table" to "view" below
+    This is my-branch-1 changes
 */
 
 {{ config(materialized='table') }}
