@@ -19,3 +19,4 @@ models:
         tests:
           - unique
           - not_null
+          - this is new check constraint on branch-2
